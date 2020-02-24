@@ -1,5 +1,6 @@
 # Table of contents
 
 * [个人博客](README.md)
-* [使用说明](shi-yong-shuo-ming.md)
+* [搭建自己的脚手架](scaffold.md)
+* [开发自己的组件库](plugis.md)
 
