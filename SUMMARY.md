@@ -16,5 +16,5 @@
 
 ## Tools
 
-* [实现tinypng的nodejs版和客户端版（可绕过张数限制）](untitled.md)
+* [利用Electron实现tinypng的客户端](untitled.md)
 
