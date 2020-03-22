@@ -6,7 +6,7 @@ tinypng ,也就是熊猫压缩是很多前端喜欢的压缩工具，官方提�
 
 {% embed url="https://segmentfault.com/a/1190000015467084" %}
 
- 思路和原文没什么不同，只是我再原来的基础上
+我再原来的基础上做了一些小的修改
 
 1. 加入了随机ip绕过20张限制，
 2. 封装成了nodejs的接口，方便集成到脚手架中和在Electron中使用
@@ -29,10 +29,6 @@ tinypng ,也就是熊猫压缩是很多前端喜欢的压缩工具，官方提�
 同样也贴上客户端版的Gihub地址
 
 {% embed url="https://github.com/focusbe/tinyImage" %}
-
-
-
- 
 
 
 
