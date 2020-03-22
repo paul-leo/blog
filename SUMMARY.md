@@ -16,3 +16,5 @@
 
 ## Tools
 
+* [利用Tinypng自动压缩图片](untitled.md)
+
