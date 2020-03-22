@@ -1,6 +1,6 @@
 # Table of contents
 
-* [个人博客](README.md)
+* [首页](README.md)
 
 ## requirejs
 
