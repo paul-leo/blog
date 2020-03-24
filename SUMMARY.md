@@ -11,13 +11,13 @@
 
 * [利用Electron实现tinypng的客户端](tools/tinypng_electron.md)
 
+## 学习javascript <a id="study-javascript"></a>
+
+* [&lt;script&gt;的加载与执行顺序](study-javascript/yi-tu-dong-asyncdefer.md)
+
 ## 模块化开发 <a id="web-module-dev"></a>
 
 * [搭建模块化开发](web-module-dev/module_develop.md)
 * [开发自己的组件库](web-module-dev/plugis.md)
 * [自动切图软件开发](web-module-dev/norecode.md)
-
-## 学习javascript <a id="study-javascript"></a>
-
-* [&lt;script&gt;的加载与执行顺序](yi-tu-dong-asyncdefer.md)
 

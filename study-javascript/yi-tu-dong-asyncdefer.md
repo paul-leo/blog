@@ -4,7 +4,7 @@
 
 **async:** 异步脚本，**谁先下载完谁先执行**，所以最好相互直接没有依赖，**不一定先于DOMContentLoaded**
 
-![](.gitbook/assets/2151798436-59da4801c6772_articlex.png)
+![](../.gitbook/assets/2151798436-59da4801c6772_articlex.png)
 
 
 
