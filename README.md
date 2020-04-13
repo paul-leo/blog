@@ -14,9 +14,9 @@
 
 {% embed url="https://github.com/pengzai-dev" %}
 
-## 我加入的组织
+## Focusbe 学习俱乐部
 
-{% embed url="https://github.com/focusbe" %}
+{% embed url="https://www.focusbe.com" %}
 
 
 
