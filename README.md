@@ -14,7 +14,7 @@
 
 {% embed url="https://github.com/pengzai-dev" %}
 
-## Focusbe 学习俱乐部
+## Focusbe 学习兴趣小组期待你的加入
 
 {% embed url="https://www.focusbe.com" %}
 
