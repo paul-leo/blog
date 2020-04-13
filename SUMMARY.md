@@ -22,5 +22,3 @@
 * [开发自己的组件库](web-module-dev/plugis.md)
 * [自动切图软件开发](web-module-dev/norecode.md)
 
-## 学习笔记
-
