@@ -22,15 +22,11 @@ tinypng ,也就是熊猫压缩是很多前端喜欢的压缩工具，官方提�
 
  贴上nodejsAPI 版的Github地址
 
-{% embed url="https://github.com/focusbe/tinypngjs" %}
-
-
+{% embed url="https://github.com/focusbe/tinypngjs?v=2" %}
 
 在有了上面nodejs的版本后，再通过Electron就可以打包成客户端的形式，如果在不集成到脚手架的情况下也可以享受更加便利的压缩图片。  
   
 同样也贴上客户端版的Gihub地址
 
-{% embed url="https://github.com/focusbe/tinyImage" %}
-
-
+{% embed url="https://github.com/focusbe/tinyimage?v=2" %}
 
