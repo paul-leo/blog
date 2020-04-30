@@ -9,7 +9,7 @@
 
 ## Tools
 
-* [利用Electron实现tinypng的客户端](tools/tinypng_electron.md)
+* [tinypngjs](tools/tinypng_electron.md)
 
 ## 学习javascript <a id="study-javascript"></a>
 
