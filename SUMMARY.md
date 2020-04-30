@@ -9,7 +9,7 @@
 
 ## Tools
 
-* [tinypngjs](tools/tinypng_electron.md)
+* [破解 tinypng 数量限制](tools/tinypng_electron.md)
 
 ## 学习javascript <a id="study-javascript"></a>
 

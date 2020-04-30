@@ -1,8 +1,8 @@
 ---
-description: 无数量限制、无需appid
+description: 无数量限制、无需appid、支持Mac/Win/Nodejs
 ---
 
-# tinypngjs
+# 破解 tinypng 数量限制
 
 tinypng ,也就是熊猫压缩是很多前端喜欢的压缩工具，官方提供了网站版，需要手动上传和下载图片，并且对于张数有限制，再使用的过程中有些繁琐，当然官方有提供nodejs的api版本，但是也有诸多限制。
 
