@@ -24,5 +24,6 @@
 
 ---
 
+* [音频可视化](yin-pin-ke-shi-hua.md)
 * [Vue 3: 2020年中状态更新](vue-3-2020-nian-zhong-zhuang-tai-geng-xin.md)
 
