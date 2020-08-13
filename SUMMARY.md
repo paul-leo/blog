@@ -28,9 +28,9 @@
 
 ## Vue
 
-* [Vue 3: 2020年中状态更新](vue/vue-3-2020-nian-zhong-zhuang-tai-geng-xin.md)
+* [Vue 3: 2020年中状态更新](vue/vue-mido02020-status.md)
 
 ---
 
-* [Vue 3 预览版发布啦！](vue-3-yu-lan-ban-fa-bu-la.md)
+* [Vue 3 预览版发布啦！](vuerc.md)
 
