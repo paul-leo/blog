@@ -29,8 +29,5 @@
 ## Vue
 
 * [Vue 3: 2020年中状态更新](vue/vue-mido02020-status.md)
-
----
-
-* [Vue 3 预览版发布啦！](vuerc.md)
+* [Vue 3 预览版发布啦！](vue/vuerc.md)
 
