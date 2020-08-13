@@ -22,3 +22,7 @@
 * [开发自己的组件库](web-module-dev/plugis.md)
 * [自动切图软件开发](web-module-dev/norecode.md)
 
+---
+
+* [Vue 3: 2020年中状态更新](vue-3-2020-nian-zhong-zhuang-tai-geng-xin.md)
+
