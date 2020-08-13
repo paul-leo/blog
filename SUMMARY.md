@@ -25,5 +25,12 @@
 ---
 
 * [音频可视化](yin-pin-ke-shi-hua.md)
-* [Vue 3: 2020年中状态更新](vue-3-2020-nian-zhong-zhuang-tai-geng-xin.md)
+
+## Vue
+
+* [Vue 3: 2020年中状态更新](vue/vue-3-2020-nian-zhong-zhuang-tai-geng-xin.md)
+
+---
+
+* [Vue 3 预览版发布啦！](vue-3-yu-lan-ban-fa-bu-la.md)
 
