@@ -18,10 +18,6 @@
 
 ## 模块化开发 <a id="web-module-dev"></a>
 
-* [搭建模块化开发](web-module-dev/module_develop.md)
-* [开发自己的组件库](web-module-dev/plugis.md)
-* [自动切图软件开发](web-module-dev/norecode.md)
-
 ---
 
 * [音频可视化](yin-pin-ke-shi-hua.md)
